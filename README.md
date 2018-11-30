@@ -1,4 +1,5 @@
 # salz
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 https://shakib1729.github.io/salz/
 
