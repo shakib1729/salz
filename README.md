@@ -1,5 +1,6 @@
 # salz
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://shakib1729.github.io/salz/)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://shakib1729.github.io/salz/)
 
 https://shakib1729.github.io/salz/
 
